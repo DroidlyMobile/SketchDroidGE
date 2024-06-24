@@ -89,6 +89,7 @@ import io.github.rosemoe.sora.langs.java.JavaLanguage;
 import io.github.rosemoe.sora.widget.CodeEditor;
 import io.github.rosemoe.sora.widget.component.Magnifier;
 import io.github.rosemoe.sora.widget.schemes.EditorColorScheme;
+import mod.AddGameEngineBlocks;
 import mod.AddGameEngineComponents;
 import mod.SketchwareUtil;
 import mod.agus.jcoderz.editor.manage.permission.ManagePermissionActivity;
@@ -400,6 +401,7 @@ public class DesignActivity extends BaseAppCompatActivity implements OnClickList
         if (!FileUtil.isExistFile(new FilePathUtil().getPathComponents() + "/component.json")){
             new AddGameEngineComponents(this);//Only adds if not already added
         }
+        new AddGameEngineBlocks(this);
 
         r = new DB(getApplicationContext(), "P1");
         t = new DB(getApplicationContext(), "P12");
