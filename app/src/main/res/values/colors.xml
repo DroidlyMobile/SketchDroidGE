@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="darkPrimary">#212121</color>
-    <color name="darkPrimaryDark">#000000</color>
+    <color name="darkPrimary">#ff1717</color>
+    <color name="darkPrimaryDark">#ff1717</color>
+    <color name="design_tab_background">#fe6c6c</color>
+    <color name="tool_bar_text_color">#FFFFFF</color>
+    <color name="scolor_blue_01">#ff1717</color>
+    <color name="color_primary">#ff1717</color>
 
     <color name="bottom_bar_background">#ffa1887f</color>
-    <color name="browser_actions_bg_grey">#000000</color>
-    <color name="browser_actions_divider_color">#1e000000</color>
-    <color name="browser_actions_text_color">#de000000</color>
+    <color name="browser_actions_bg_grey">#FFFFFF</color>
+    <color name="browser_actions_divider_color">#ff1717</color>
+    <color name="browser_actions_text_color">#FFFFFF</color>
     <color name="browser_actions_title_color">#ff646464</color>
     <color name="color_accent">#3e3e42</color>
     <color name="color_btn_blue_highlight">#ff005e8a</color>
-    <color name="color_btn_blue_normal">#000000</color>
+    <color name="color_btn_blue_normal">#FFFFFF</color>
     <color name="color_btn_green_highlight">#ff1d7a73</color>
     <color name="color_btn_ltblue_highlight">#ff0b96d9</color>
     <color name="color_btn_ltblue_normal">#ff33b8f5</color>
@@ -23,15 +27,14 @@
     <color name="color_chk_white_highlight">#ffffccbc</color>
     <color name="color_chk_white_normal">#fff5f5f5</color>
     <color name="color_control_highlight">#20008dcd</color>
-    <color name="color_control_normal">#000000</color>
-    <color name="color_primary">#3e3e42</color>
+    <color name="color_control_normal">#ff1717</color>
+
     <color name="color_primary_alpha">#FFFFFF</color>
-    <color name="color_primary_dark">#000000</color>
-    <color name="color_ripple">#b2000000</color>
-    <color name="color_secondary">#000000</color>
+    <color name="color_primary_dark">#fe6c6c</color>
+    <color name="color_ripple">#FFFFFF</color>
+    <color name="color_secondary">#FFFFFF</color>
     <color name="design_menu_bg">#ffffffff</color>
-    <color name="design_menu_text_color">#ff000000</color>
-    <color name="design_tab_background">#3e3e42</color>
+    <color name="design_menu_text_color">#FFFFFF</color>
     <color name="design_tab_indicator_color">#ffffc107</color>
     <color name="design_tab_selected_text_color">#ffffffff</color>
     <color name="design_tab_text_color">#ffa8cde9</color>
@@ -39,7 +42,7 @@
     <color name="light_grey">#ffc6c6c6</color>
     <color name="lighter_grey">#ffeeeeee</color>
     <color name="list_selected_background">#20008dcd</color>
-    <color name="main_tab_background">#000000</color>
+    <color name="main_tab_background">#FFFFFF</color>
     <color name="main_tab_indicator_color">#FFFFFF</color>
     <color name="main_tab_selected_text_color">#FFFFFF</color>
     <color name="main_tab_text_color">#FFFFFF</color>
@@ -50,7 +53,7 @@
     <color name="scolor_bg_02">#fff1f4fb</color>
     <color name="scolor_black_01">#ff1d2129</color>
     <color name="scolor_black_02">#ff757575</color>
-    <color name="scolor_blue_01">#000000</color>
+
     <color name="scolor_dark_yellow_01">#ffff8700</color>
     <color name="scolor_green_01">#ff52f55c</color>
     <color name="scolor_green_02">#ff74f37c</color>
@@ -71,7 +74,7 @@
     <color name="scratch_start_gradient">#ffd0f1ff</color>
     <color name="swipe_refresh">#ffffffff</color>
     <color name="swipe_refresh_bg">#ff008dcd</color>
-    <color name="tool_bar_text_color">#000000</color>
+
     <color name="transparent">#00ffffff</color>
     <color name="darkGrey">#ff272822</color>
     <color name="black">#ff000000</color>
@@ -85,5 +88,5 @@
     <color name="monokia_pro_orange">#ffffd866</color>
     <color name="monokia_pro_purple">#ffab9df2</color>
     <color name="monokia_pro_grey">#ff727072</color>
-    <color name="colorBottomBarSW">#000000</color>
+    <color name="colorBottomBarSW">#FFFFFF</color>
 </resources>
